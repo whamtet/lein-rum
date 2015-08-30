@@ -1,5 +1,5 @@
 (ns leiningen.rum
-  "Run a -main function with optional command-line arguments."
+  "A drunken version of run."
   (:require [leiningen.core.eval :as eval]
             [leiningen.core.main :as main])
   (:import (java.io FileNotFoundException)
